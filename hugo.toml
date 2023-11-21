@@ -1,0 +1,5 @@
+baseURL = 'https://Kirill2530.github.io'
+languageCode = 'en-us'
+title = 'Анекдоты'
+theme = 'ananke'
+publishDir = "docs"
